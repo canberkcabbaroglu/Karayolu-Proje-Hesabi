@@ -1,4 +1,4 @@
-## KARAYOLU PROJE HESABI PROGRAMI
+## KARAYOLU PROJE HESAP PROGRAMI
  Özellikle mühendislik öğrencileri için Python ile yazılmış olan ve PyQt5 arayüzü kullanılan Karayolu Projesi için kullanılan bütün parametreleri içinde barındıran hesap makinesidir.
  
 ## KURULUM
