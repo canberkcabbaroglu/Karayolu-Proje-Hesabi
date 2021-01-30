@@ -1,9 +1,10 @@
-# KARAYOLU PROJE HESABI PROGRAMI
+## KARAYOLU PROJE HESABI PROGRAMI
  Özellikle mühendislik öğrencileri için Python ile yazılmış olan ve PyQt5 arayüzü kullanılan Karayolu Projesi için kullanılan bütün parametreleri içinde barındıran hesap makinesidir.
-
+ 
 ## KURULUM
-PyQt5'in GPL sürümü PyPI'den yüklenebilir:
+PyQt5'in GPL sürümü bu kod ile yüklenebilir:
 >pip install PyQt5
+
 ## PROGRAMDAKİ ARAYÜZLER
 ### Karayolu Hesap Programı Arayüzü
 ![1](https://user-images.githubusercontent.com/74494292/106367393-64d44380-6353-11eb-8e57-9ead5ad273e4.png "Arayüz")
